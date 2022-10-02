@@ -4,7 +4,7 @@
 
 ## Credit: Brandon Pitts, Luis Rosales
 
-### Code 401d48 Lab 06
+### Code 401d48 Lab 08
 
 ### Problem Domain
 
